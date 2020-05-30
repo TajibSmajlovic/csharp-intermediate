@@ -1,0 +1,13 @@
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\smajl\Documents\Programming\CSharpIntermediate\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache

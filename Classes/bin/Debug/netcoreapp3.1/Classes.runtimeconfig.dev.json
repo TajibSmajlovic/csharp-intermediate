@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\smajl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\smajl\\.nuget\\packages"
+    ]
+  }
+}
