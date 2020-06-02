@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "Classes\Classes.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssociationBetweenClasses", "AssociationBetweenClasses\AssociationBetweenClasses.csproj", "{6899FAF0-EF2C-46B6-9814-02228C57EF8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F5E474A0-31C0-423F-ACF8-4D237E64C0D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F5E474A0-31C0-423F-ACF8-4D237E64C0D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Olx", "Olx\Olx.csproj", "{0198E978-DDA5-4DB6-8BA4-0731CDAFBADF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Olx", "Olx\Olx.csproj", "{0198E978-DDA5-4DB6-8BA4-0731CDAFBADF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{7F07DCE1-0517-40F8-BD37-DD896CB84756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{0198E978-DDA5-4DB6-8BA4-0731CDAFBADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0198E978-DDA5-4DB6-8BA4-0731CDAFBADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0198E978-DDA5-4DB6-8BA4-0731CDAFBADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
