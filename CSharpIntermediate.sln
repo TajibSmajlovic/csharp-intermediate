@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Olx", "Olx\Olx.csproj", "{0198E978-DDA5-4DB6-8BA4-0731CDAFBADF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{7F07DCE1-0517-40F8-BD37-DD896CB84756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{7F07DCE1-0517-40F8-BD37-DD896CB84756}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{774AD816-0083-40F7-8745-9057BBF601E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F07DCE1-0517-40F8-BD37-DD896CB84756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774AD816-0083-40F7-8745-9057BBF601E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774AD816-0083-40F7-8745-9057BBF601E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774AD816-0083-40F7-8745-9057BBF601E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774AD816-0083-40F7-8745-9057BBF601E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
